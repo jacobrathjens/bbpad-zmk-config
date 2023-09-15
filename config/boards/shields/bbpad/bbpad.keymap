@@ -46,7 +46,7 @@
             label = "fn layer";
             bindings = <
                                                                      &kp KP_NUM
-                &trans           &text_power EP_ON  &ext_power EP_OFF&kp BSPC
+                &trans           &ext_power EP_ON  &ext_power EP_OFF &kp BSPC
                 &trans           &rgb_ug RGB_BRI    &trans           &trans
                 &rgb_ug RGB_EFR  &ext_power EP_TOG  &rgb_ug RGB_EFF  &trans
                 &trans           &rgb_ug RGB_BRD    &bt BT_NXT       &bt BT_CLR
